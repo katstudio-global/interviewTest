@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="meal_image_description">Imagen de platillo.</string>
+    <string name="meal_name_template">Summer Pudding</string>
+    <string name="meal_category_template">Dessert</string>
+    <string name="meal_youtube_template">https://www.youtube.com/watch?v=akJIO6UhXtA</string>
+    <string name="youtube_link"><u>Youtube link</u></string>
+</resources>
